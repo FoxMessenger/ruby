@@ -130,7 +130,7 @@ class DemoConsole
     puts 'Before we start, you have to select demo app keys or add your own.'.green
     print "\n"
     puts '1. Basic demo keys  -- You will be limited to standard events, no PAM features'
-    puts '2. PAM supprot keys -- You can check out all pubnub features, including PAM'
+    puts '2. PAM support keys -- You can check out all pubnub features, including PAM'
     puts '3. Custom keys      -- If you already have your own keys, you can set them here'
     print "\n"
     print 'Your choice: '.green
